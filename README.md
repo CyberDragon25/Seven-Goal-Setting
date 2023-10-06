@@ -57,7 +57,7 @@ GIF created with **Kap**
 
 ## Original App Layout (Optional Stretch Feature)
 
-Here is my entry for the "Create a second layout, this time for an original, personal app idea" stretch feature:
+<!-- Here is my entry for the "Create a second layout, this time for an original, personal app idea" stretch feature: -->
 
 It is for an app that **brief description**.
 
