@@ -4,13 +4,13 @@
 
 Submitted by: **Subham Bhattacharya**
 
-Time spent: **X** hours spent in total
+Time spent: **0.5** hours spent in total
 
 ## Summary
 
-**Name of your app** is an android app that was riddle with some pretty nasty Kotlin bugs.  With those gone, it's a collection of widgets for a variety of purposes!  **Change or add to this description**
+**Seven Goal Settings** is an Android screen that is similar to the original screen. It is awesome!  **Change or add to this description**
 
-If I had to describe this project in three (3) emojis, they would be: **emojis here**
+If I had to describe this project in three (3) emojis, they would be: **:star: :boom: :foggy:**
 
 ## Application Features
 
@@ -18,12 +18,12 @@ If I had to describe this project in three (3) emojis, they would be: **emojis h
 
 The following REQUIRED features are completed:
 
-- [ ] Pick an app screenshot to duplicate
+- [x] Pick an app screenshot to duplicate
   - Be sure to add the screenshot to "Chosen Screenshot" below.
-- [ ] Create a runnable app that displays an Animal Version of your chosen screenshot
-- [ ] Layout uses one (1) or more ConstraintLayout
-- [ ] Layout uses one (1) or more ImageView
-- [ ] Layout uses three (3) or more TextViews
+- [x] Create a runnable app that displays an Animal Version of your chosen screenshot
+- [x] Layout uses one (1) or more ConstraintLayout
+- [x] Layout uses one (1) or more ImageView
+- [x] Layout uses three (3) or more TextViews
 
 The following STRETCH features are implemented:
 
@@ -38,7 +38,7 @@ The following EXTRA features are implemented:
 
 ## Chosen Screenshot
 
-I have chosen to duplicate the following layout from the **App Name Here** app:
+I have chosen to duplicate the following layout from the **Seven Goal Settings** app:
 
 <img src='http://example.com/link/to/your/image.png' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
 
@@ -61,11 +61,11 @@ Here is my entry for the "Create a second layout, this time for an original, per
 
 It is for an app that **brief description**.
 
-<img src='http://example.com/link/to/your/image.png' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
+<img src='./sevengoalApp.png' title='screenshot of app' width='' alt='Chosen Screenshot' />
 
 ## Notes
 
-Here's a place for any other notes on the app, it's creation process, or what you learned this unit!
+I mainly learned how to create layouts in android apps!
 
 ## License
 
