@@ -61,7 +61,7 @@ GIF created with **Kap**
 
 It is for an app that **brief description**.
 
-<img src='./sevengoalApp.png' title='screenshot of app' width='' alt='Chosen Screenshot' />
+
 
 ## Notes
 
